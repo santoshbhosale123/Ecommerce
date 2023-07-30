@@ -1,0 +1,10 @@
+Get--- http://localhost:4000/api/v1/products   === getAllProducts
+POST---http://localhost:4000/api/v1/product/new  === create Product
+
+PUT--- http://localhost:4000/api/v1/product/64c63b6e9ca63f8d1809d410    ==== updateProducts
+
+DELETE--- http://localhost:4000/api/v1/product/64c63b6e9ca63f8d1809d410    == delete
+
+
+
+GET --   http://localhost:4000/api/v1/product/64c63993195a3ec2e5099364  == getproduct details
